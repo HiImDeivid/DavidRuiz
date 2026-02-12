@@ -29,4 +29,3 @@ Basado en mi formación y experiencia técnica, manejo las siguientes herramient
 ¡Siempre estoy abierto a nuevas oportunidades y colaboraciones!
 
 - **LinkedIn:** [linkedin.com/in/david-ruiz-alonsoo/](https://www.linkedin.com/in/david-ruiz-alonsoo/)
-- **Email:** (Añade aquí tu email si deseas que sea público)
