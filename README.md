@@ -21,12 +21,12 @@ Basado en mi formación y experiencia técnica, manejo las siguientes herramient
 ---
 
 ### 📈 Mis Proyectos
-[cite_start]*Próximamente iré subiendo aquí mis proyectos de clase y personales más destacados del ciclo DAW[cite: 25].*
+*Próximamente iré subiendo aquí mis proyectos de clase y personales más destacados del ciclo DAW[cite: 25].*
 
 ---
 
 ### 📫 Conecta conmigo
-[cite_start]¡Siempre estoy abierto a nuevas oportunidades y colaboraciones! [cite: 15, 22]
+¡Siempre estoy abierto a nuevas oportunidades y colaboraciones! [cite: 15, 22]
 
 - **LinkedIn:** [linkedin.com/in/david-ruiz-alonsoo/](https://www.linkedin.com/in/david-ruiz-alonsoo/)
 - **Email:** (Añade aquí tu email si deseas que sea público)
